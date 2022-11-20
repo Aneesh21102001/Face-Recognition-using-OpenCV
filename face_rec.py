@@ -1,3 +1,4 @@
+#This code pops a dialog box with a rectangular box around our face. Also tells the user's name with positive accuracy
 import cv2
 import numpy as np
 import os
