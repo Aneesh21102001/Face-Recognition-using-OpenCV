@@ -1,3 +1,5 @@
+#This code pops a dialog box which shows our face detected by the system and creates a rectangular box around the face.
+
 import numpy as np
 import cv2
 
