@@ -1,3 +1,5 @@
+# This code tests the camera. The dialog will pop if it runs fine.
+
 import cv2
 
 video_capture = cv2.VideoCapture(0)
